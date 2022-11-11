@@ -14,9 +14,7 @@
 
 💻 Learning the basics of ReactJS, CSS and Python
 
-🪐 Most of my projects are available on Github
-
-👽 You can check my Gitlab activities [here](https://gitlab.com/gabsv)
+👽 Most of my projects are available on Github, but you can check my Gitlab activities [here](https://gitlab.com/gabsv)
 
 🌼 Check out LabRI-UNESP Project [here](https://gitlab.com/unesp-labri)
 
