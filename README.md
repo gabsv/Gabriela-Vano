@@ -1,9 +1,9 @@
 # 👾 HELLO 🌈
 -----
 
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/7iirVpppgQMe3Ap6k9/giphy.gif" />
-</p>
+</div>
 
 -----
 ## ABOUT ME 🍄
